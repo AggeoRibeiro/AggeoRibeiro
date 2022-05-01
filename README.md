@@ -10,7 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Aggeo-Java" height="30" width="40" src="<link rel="stylesheet" href="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Aggeo-Java" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   
   <img align="center" alt="Aggeo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
