@@ -1,7 +1,4 @@
-###Olá eu sou Aggeo Ribeiro, Desenvolvedor Java.
-
-- 🌱 Estudando Spring
-
+Olá eu sou Aggeo Ribeiro, Desenvolvedor Java.
 
 <div align="center">
   <a href="https://github.com/AggeoRibeiro">
@@ -23,7 +20,3 @@
 </div>
   
  
-<div> 
-  
- 
-</div>
